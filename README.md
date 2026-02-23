@@ -4,7 +4,7 @@ Note: This guide explains how to properly install and configure OAK-D Pro camera
 
 Topics: 
 1) Installing required dependencies
-2)Fixing Python compatibility issues if Any
+2) Fixing Python compatibility issues
 3) Installing OAK Viewer
 5) Fixing USB permission errors
 6) Fixing X_LINK_DEVICE_NOT_FOUND
